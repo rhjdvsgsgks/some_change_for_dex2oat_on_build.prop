@@ -1,0 +1,11 @@
+pm.dexopt.ab-ota=verify-none
+pm.dexopt.bg-dexopt=everything
+pm.dexopt.boot=verify-none
+pm.dexopt.core-app=everything
+pm.dexopt.first-boot=verify-none
+pm.dexopt.forced-dexopt=everything
+pm.dexopt.install=everything
+pm.dexopt.nsys-library=everything
+pm.dexopt.shared-apk=everything
+dalvik.vm.image-dex2oat-filter=everything
+dalvik.vm.dex2oat-filter=everything
